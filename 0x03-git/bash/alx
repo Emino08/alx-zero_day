@@ -1,4 +1,5 @@
 #!/bin/bash 
+to_format="utf-8"
 <<<<<<< HEAD
  ALX School is so cool!
 =======
